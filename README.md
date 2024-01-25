@@ -11,15 +11,13 @@ LocationApp is a simple Android application that allows users to retrieve and di
 
 ## Screenshots
 
-![Initial-GetLocation](https://github.com/pavan-kumar-arepu/LocationnApp/assets/13812858/f503c800-255e-47a1-89c0-53eff44519bf)
+<figure>
+    <img src="https://github.com/pavan-kumar-arepu/LocationnApp/assets/13812858/f503c800-255e-47a1-89c0-53eff44519bf" alt="Initial-GetLocation" style="width:45%;">
+    <img src="https://github.com/pavan-kumar-arepu/LocationnApp/assets/13812858/81440368-faa7-44c8-9148-3bd357056c20" alt="LocationNotAvailable" style="width:45%; margin-right: 10px;">
+    <img src="https://github.com/pavan-kumar-arepu/LocationnApp/assets/13812858/b53d210a-896c-4ca3-8c67-52cd73f36efc" alt="When User Denied Access" style="width:45%; margin-right: 10px;">
+ <img src="https://github.com/pavan-kumar-arepu/LocationnApp/assets/13812858/7757ba73-7ad2-483a-8c95-19ed32fec444" alt="Latitude and Longitude" style="width:45%; margin-right: 10px;">
+</figure>
 
-![LocationNotAvailable](https://github.com/pavan-kumar-arepu/LocationnApp/assets/13812858/81440368-faa7-44c8-9148-3bd357056c20)
-
-![WhenDeny](https://github.com/pavan-kumar-arepu/LocationnApp/assets/13812858/b53d210a-896c-4ca3-8c67-52cd73f36efc)
-*When user denied the permissionn*
-
-![LatAndLong](https://github.com/pavan-kumar-arepu/LocationnApp/assets/13812858/7757ba73-7ad2-483a-8c95-19ed32fec444)
-*Showing latitude and Longitude*
 
 ## Architecture
 
