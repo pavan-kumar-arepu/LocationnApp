@@ -2,6 +2,11 @@
 
 LocationApp is a simple Android application that allows users to retrieve and display their current location information.
 
+
+# Author
+Name: ArepuPavanKumar
+Email: iOSDeveloper.ipa@gmail.com
+
 ## Features
 
 - Get real-time latitude and longitude coordinates
